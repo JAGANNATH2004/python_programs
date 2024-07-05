@@ -1,0 +1,1 @@
+This folder contains basic oops programs in python like(polymorhism,encapsulation,inheritence)
